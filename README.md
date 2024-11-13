@@ -29,8 +29,11 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 # 3. Logika Program: database SQLite, fitur CRUD (Create, Read, Update, Delete)
 • Menggunakan database SQLite untuk menyimpan data kontak secara lokal.
+
 • Menampilkan daftar kontak di JTable.
+
 • Menyimpan dan memuat daftar kontak dari file CSV.
+
 • Validasi nomor telepon agar hanya berupa angka dan memiliki panjang yang sesuai.
 
 # 4. Events:
@@ -222,7 +225,7 @@ private void btnImporActionPerformed(java.awt.event.ActionEvent evt) {
     }  
 ```
 # 6. Tampilan Pada Saat Aplikasi Di Jalankan
-![]()
+![](https://github.com/firaaaa10/Latihan3_AplikasiPengelolaanKontak/blob/main/Cuplikan%20layar%202024-11-13%20231510.png)
 
 ## Indikator Penilaian:
 
