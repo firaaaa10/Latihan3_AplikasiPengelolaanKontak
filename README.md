@@ -20,11 +20,17 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 # 2. Komponen GUI: JFrame, JPanel, JLabel, JTextField, JButton, JList, JComboBox, JTable, JScrollPane
 • JFrame: Window utama aplikasi.
+
 • JPanel: Panel untuk menampung komponen.
+
 • JLabel: Label untuk menampilkan informasi input.
+
 • JTextField: Input untuk nama, nomor telepon, kategori, dan pencarian.
+
 • JButton: Tombol untuk menambah, mengedit, menghapus, mencari, mengekspor, dan mengimpor kontak.
+
 • JComboBox: Dropdown untuk memilih kategori kontak.
+
 • JTable: Tabel untuk menampilkan daftar kontak.
 
 # 3. Logika Program: database SQLite, fitur CRUD (Create, Read, Update, Delete)
