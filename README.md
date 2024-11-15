@@ -6,6 +6,7 @@ Nama     : Siti Safira
 NPM      : 2210010336
 # 1. Deskripsi Program
 Aplikasi ini memungkinkan pengguna untuk:
+
 • Aplikasi menyimpan informasi kontak seperti nama, nomor telepon, dan kategori kontak ke dalam database SQLite.
 
 • Kontak dapat dikelompokkan berdasarkan kategori yang dipilih dari JComboBox, seperti keluarga, teman, atau kerja.
